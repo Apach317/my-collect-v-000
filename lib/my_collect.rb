@@ -1,6 +1,6 @@
 def my_collect(languages)
   collect = []
-  while collect(language) < languages.length do
+  while collect(languages) < languages.length do
     languages.upcase
   end
 end
